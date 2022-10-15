@@ -26,10 +26,13 @@ sidebar:
     pdf:
 
     languages:
-      title: Languages
+      title: Programming Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: SQL / PostgreSQL
+          level: Expert
+
+        - idiom: Python
+          level: Proficient
 
     interests:
       title: Interests
@@ -174,21 +177,25 @@ education:
         details: |
           Bachelor of Science: Computer Information Systems
           Graduated with high honors.
-          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp.
+          
+          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp
+            as well as JSON, XML, RegEx, Yaml, Markdown
+          
           Major coursework:
             - Data structures & algorithms
             - Behavioral science statistics
             - Software engineering
 
-      - degree: "AS: Psy"
+      - degree: "AS: PSY"
         university: "Seattle Central College"
         time: "1997 - 1999"
         details: |
           Associate of Science: Psychology (Focus on abnormal psychology)
+          
           Major coursework:
             - Abnormal psychology
             - Childhood development
-            - Clinical experiment methods
+            - Experiment methodology
 
 projects:
     title: Projects
@@ -197,7 +204,7 @@ projects:
     assignments:
       - title: Term-o-Meter
         link: "#hook"
-        tagline: >-
+        tagline: |
           Given SeedLegals' mission to be a startup's best friend–and the many thousands of successful funding rounds closed on the platform–Tom was an inevitability.
 
           Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of Tom before tasking my team to bring it life. A (currently) internal tool, Tom consists of a visual interface on top of a program that aggregates and analyzes interactions between key deal terms and funding round statistics. 
@@ -208,7 +215,7 @@ projects:
 
       - title: Bad Actor Detection and Swift Suspension
         link: "#hook"
-        tagline: >-
+        tagline: |
           To combat phishing, SEO manipulation, and general bot account creation, I created a couple tools using machine learning with Python and SQL to determine the likelihood that a new account was a "bad actor".
 
           The first tool classified new accounts based on all of the statistically significant data points available, returning the probability of the account being suspended for bad actions in the future. The second scanned and reported on user interactions for patterns indicative of phishing.
@@ -217,14 +224,14 @@ projects:
 
       - title: Graphicacy Module for Data Analytics Training
         link: "#hook"
-        tagline: >-
+        tagline: |
           While we've witnessed a massive explosion in data over the past years, we haven't seen a similar rise in data literacy. So, while teaching SQL and data analytics courses at Rover, in order to help democratize access to and understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
           This module was quickly made part of the curriculum for all SQL courses at Rover in the US, before being rolled out to all offices shortly after.
 
       - title: Magic Duels
         link: "#hook"
-        tagline: >-
+        tagline: |
           """
           Z was pivotal and excellent in making the Duels BI Reporting effort a success...in the weeks preceding launch, he demonstrated attributes of what I consider real excellence, and without him our ask for heroics to deliver BI for the team would have severely suffered. I can cite the specifics:
 
@@ -247,7 +254,7 @@ projects:
 
       - title: Diversity Reporting Program
         link: "#hook"
-        tagline: >-
+        tagline: |
           The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
 
           My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as protecting contract bids for S&D businesses.
