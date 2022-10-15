@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: "z@zhespelt.com"
-    phone: "+1 762.233.2865"
+    email: ["z@zhespelt.com"]("https://www.auditmypc.com/freescan/antispam.html")
+    phone: "+1 762.233 twenty-eight sixty-five"
     timezone: "America/Los Angeles"
     citizenship: "United States"
 
@@ -21,7 +21,7 @@ sidebar:
     linkedin: "zhespelt"
     github: "zhespelt"
     twitter: 
-    stack-overflow: "1595427/zsh"
+    stack-overflow: "1767229/zsh"
 
     pdf:
 
