@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: "Z Hespelt"
     tagline: "Full Stack Data Professional"
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_alpha.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
 #    email: ["z@zhespelt.com"]("https://www.auditmypc.com/freescan/antispam.html")
@@ -35,14 +35,26 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: "LGBTQIA+"
-          link:
+        - item: "LGBTQIA+ Community & Resources"
+          link: "https://lgbtqia.ucdavis.edu/about"
 
-        - item: "Locksport"
-          link:
+        - item: "Locksport & Physical Security"
+          link: "https://www.toool.us/mission.php"
 
-        - item: "OSINT"
-          link:
+        - item: "Neurodiversity Research"
+          link: "https://www.neurodiversityhub.org/resources"
+
+        - item: "Open-Source Intelligence (OSINT)"
+          link: "https://osintcurio.us/"
+
+        - item: "Linux & Open-Source"
+          link: "https://www.linuxfoundation.org/about"
+
+        - item: "Hacking CTFs"
+          link: "https://ctftime.org/ctfs"
+
+        - item: "Data Privacy and Security"
+          link: "https://act.eff.org/"
 
 career-profile:
     title: "Full-stack Data Professional"
@@ -54,10 +66,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: "Bachelor of Science: Computer Information Systems"
+      - degree: "BS: CIS"
         university: "Cleveland State University"
         time: "2007 - 2010"
         details: |
+          Bachelor of Science: Computer Information Systems
           Graduated with high honors.
           Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp.
           Major coursework:
@@ -65,11 +78,11 @@ education:
             - Behavioral science statistics
             - Software engineering
 
-      - degree: "Associates: Psychology"
+      - degree: "AS: Psy"
         university: "Seattle Central College"
         time: "1997 - 1999"
         details: |
-          Focus on abnormal psychology.
+          Associate of Science: Psychology (Focus on abnormal psychology)
           Major coursework:
             - Abnormal psychology
             - Childhood development
@@ -157,7 +170,7 @@ skills:
     title: "Skills & Proficiency"
 
     toolset:
-      - name: "Data Analytics"
+      - name: "Business & Data Analytics"
         level: 100%
 
       - name: SQL
@@ -166,11 +179,26 @@ skills:
       - name: Python
         level: 90%
 
+      - name: "Data Modeling"
+        level: 90%
+
       - name: "Data Visualization"
         level: 90%
 
+      - name: "Research"
+        level: 85%
+
       - name: "Team Management"
         level: 80%
+
+      - name: "Data Privacy & Ethics"
+        level: 80%
+
+      - name: "Forecasting"
+        level: 80%
+
+      - name: "Data Science"
+        level: 60%
 
 footer: >
     Oct 2022 | zhespelt.com
