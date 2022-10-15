@@ -14,7 +14,9 @@ sidebar:
     # Sidebar links
 #    email: ["z@zhespelt.com"]("https://www.auditmypc.com/freescan/antispam.html")
     email: "z@zhespelt.com"
-    phone: "+1 762.233 twenty-eight sixty-five"
+    phone: >- 
+      +1 762.233 
+      twenty-eight sixty-five
     timezone: "America/Los Angeles"
     citizenship: "United States"
 
@@ -201,4 +203,4 @@ skills:
         level: 60%
 
 footer: >
-    Oct 2022 | zhespelt.com
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
