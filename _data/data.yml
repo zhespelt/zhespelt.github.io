@@ -61,31 +61,40 @@ career-profile:
         A Seattle native with over a decade of experience successfully leveraging data analytics and business intelligence into action and revenue. I've done so across a range of companies and industries, in both the US and UK.
 
         My insights have been directly responsible for millions in revenue and savings per year at companies I've worked with, and my teams' projects have been worth many times that.
-  
-education:
-    title: Education
-    info:
-      - degree: "BS: CIS"
-        university: "Cleveland State University"
-        time: "2007 - 2010"
-        details: |
-          Bachelor of Science: Computer Information Systems
-          Graduated with high honors.
-          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp.
-          Major coursework:
-            - Data structures & algorithms
-            - Behavioral science statistics
-            - Software engineering
 
-      - degree: "AS: Psy"
-        university: "Seattle Central College"
-        time: "1997 - 1999"
-        details: |
-          Associate of Science: Psychology (Focus on abnormal psychology)
-          Major coursework:
-            - Abnormal psychology
-            - Childhood development
-            - Clinical experiment methods
+skills:
+    title: "Skills & Proficiency"
+
+    toolset:
+      - name: "Business & Data Analytics"
+        level: 100%
+
+      - name: SQL
+        level: 95%
+
+      - name: Python
+        level: 90%
+
+      - name: "Data Modeling"
+        level: 90%
+
+      - name: "Data Visualization"
+        level: 90%
+
+      - name: "Research"
+        level: 85%
+
+      - name: "Team Management"
+        level: 80%
+
+      - name: "Data Privacy & Ethics"
+        level: 80%
+
+      - name: "Forecasting"
+        level: 80%
+
+      - name: "Data Science"
+        level: 60%
 
 experiences:
     title: Experiences
@@ -156,48 +165,92 @@ experiences:
           grants and was instrumental in the department earning the Rosa Parks Award for outstanding 
           commitment to equality in 2011.
 
+education:
+    title: Education
+    info:
+      - degree: "BS: CIS"
+        university: "Cleveland State University"
+        time: "2007 - 2010"
+        details: |
+          Bachelor of Science: Computer Information Systems
+          Graduated with high honors.
+          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp.
+          Major coursework:
+            - Data structures & algorithms
+            - Behavioral science statistics
+            - Software engineering
+
+      - degree: "AS: Psy"
+        university: "Seattle Central College"
+        time: "1997 - 1999"
+        details: |
+          Associate of Science: Psychology (Focus on abnormal psychology)
+          Major coursework:
+            - Abnormal psychology
+            - Childhood development
+            - Clinical experiment methods
+
 projects:
     title: Projects
-    intro: >
-      project intro
+    intro:
+
     assignments:
-      - title: project title
+      - title: Term-o-Meter
         link: "#hook"
-        tagline: "project description"
+        tagline: >-
+          Given SeedLegals' mission to be a startup's best friend–and the many thousands of successful funding rounds closed on the platform–Tom was an inevitability.
 
-skills:
-    title: "Skills & Proficiency"
+          Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of Tom before tasking my team to bring it life. A (currently) internal tool, Tom consists of a visual interface on top of a program that aggregates and analyzes interactions between key deal terms and funding round statistics. 
 
-    toolset:
-      - name: "Business & Data Analytics"
-        level: 100%
+          Term-o-Meter provides SeedLegals a deep insight into how founders and investors negotiate deal terms and how successful those deals turn out to be.
 
-      - name: SQL
-        level: 95%
+          Planned updates aim to increase the power of Tom by tracking startup success farther into the future as well as increasing the number of dimensions Tom considers in its analyses.
 
-      - name: Python
-        level: 90%
+      - title: Bad Actor Detection and Swift Suspension
+        link: "#hook"
+        tagline: >-
+          To combat phishing, SEO manipulation, and general bot account creation, I created a couple tools using machine learning with Python and SQL to determine the likelihood that a new account was a "bad actor".
 
-      - name: "Data Modeling"
-        level: 90%
+          The first tool classified new accounts based on all of the statistically significant data points available, returning the probability of the account being suspended for bad actions in the future. The second scanned and reported on user interactions for patterns indicative of phishing.
 
-      - name: "Data Visualization"
-        level: 90%
+          Between the two of these, Rover was able to materially reduce the number of interactions these accounts initiated with users.
 
-      - name: "Research"
-        level: 85%
+      - title: Graphicacy Module for Data Analytics Training
+        link: "#hook"
+        tagline: >-
+          While we've witnessed a massive explosion in data over the past years, we haven't seen a similar rise in data literacy. So, while teaching SQL and data analytics courses at Rover, in order to help democratize access to and understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
-      - name: "Team Management"
-        level: 80%
+          This module was quickly made part of the curriculum for all SQL courses at Rover in the US, before being rolled out to all offices shortly after.
 
-      - name: "Data Privacy & Ethics"
-        level: 80%
+      - title: Magic Duels
+        link: "#hook"
+        tagline: >-
+          """
+          Z was pivotal and excellent in making the Duels BI Reporting effort a success...in the weeks preceding launch, he demonstrated attributes of what I consider real excellence, and without him our ask for heroics to deliver BI for the team would have severely suffered. I can cite the specifics:
 
-      - name: "Forecasting"
-        level: 80%
+          -Critical thinking skills- Z thinks through and visualizes a problem in an end-to-end, optionality-driven way.
 
-      - name: "Data Science"
-        level: 60%
+          -Communication- Z is a consistently excellent, logical communicator. He is able to raise his response above simply replaying what he did, and synthesize answers and comments at the Goal level, which is a rare trait.
+
+          -Domain knowledge- Z knows his stuff when it comes to analysis and BI, able to context switch rapidly between subject matters, and understand cross-dependencies quickly. He was able to grasp and execute excellently on the priorities of the business, and collaborate well with partners in technology.
+
+          -Cuts through It- Z can, and does, often understand the difference between wasted noise and important information, and takes a leadership-level stance in getting the team to see the point.
+
+          -Machine (process) thinking- Z is self-aware of what part he plays in achieving a goal, and tethers to that even when forces of distraction come into play. He’s able to stick to the process, get the results, and prove value rapidly and repeatedly.
+
+          I wanted to call this out because I think it deserves recognition. It may be redundant from comments others have made, but I’ll view that as reinforcing the points.
+
+          As an ancillary point, Z has been helping on the BIDW project, and in many offline conversations, I’m grateful to have his insights and the traits I listed above working in service of making that effort a success as well.
+          """
+
+          This was a review my department head shared with me from one of the PMs on the Duels project.
+
+      - title: Diversity Reporting Program
+        link: "#hook"
+        tagline: >-
+          The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
+
+          My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as protecting contract bids for S&D businesses.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
