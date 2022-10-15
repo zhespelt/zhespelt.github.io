@@ -4,7 +4,7 @@
 
 sidebar:
     about: False
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False
 
     # Profile information
     name: "Z Hespelt"
@@ -23,7 +23,7 @@ sidebar:
     twitter: 
     stack-overflow: "1767229/zsh"
 
-    pdf:
+    pdf: ""
 
     languages:
       title: Languages
