@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Z Hespelt
-    tagline: Full Stack Data Professional
+    name: "Z Hespelt"
+    tagline: "Full Stack Data Professional"
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: z@zhespelt.com
-    phone: +1 762.233.2865
-    timezone: America/Los Angeles
-    citizenship: United States
+    email: "z@zhespelt.com"
+    phone: "+1 762.233.2865"
+    timezone: "America/Los Angeles"
+    citizenship: "United States"
 
-    website: zhespelt.com
-    linkedin: zhespelt
-    github: zhespelt
+    website: "zhespelt.com"
+    linkedin: "zhespelt"
+    github: "zhespelt"
     twitter: 
-    stack-overflow: 1595427/zsh
+    stack-overflow: "1595427/zsh"
 
     pdf:
 
@@ -34,17 +34,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: LGBTQIA+
+        - item: "LGBTQIA+"
           link:
 
-        - item: Locksport
+        - item: "Locksport"
           link:
 
-        - item: OSINT
+        - item: "OSINT"
           link:
 
 career-profile:
-    title: Full-stack Data Professional
+    title: "Full-stack Data Professional"
     summary:  >-
         A Seattle native with over a decade of experience successfully leveraging data analytics and business intelligence into action and revenue. I've done so across a range of companies and industries, in both the US and UK.
 
@@ -53,9 +53,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor of Science: Computer Information Systems
-        university: Cleveland State University
-        time: 2007 - 2010
+      - degree: "Bachelor of Science: Computer Information Systems"
+        university: "Cleveland State University"
+        time: "2007 - 2010"
         details: |
           Graduated with high honors.
           Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp.
@@ -64,9 +64,9 @@ education:
             - Behavioral science statistics
             - Software engineering
 
-      - degree: Associates: Psychology
-        university: Seattle Central College
-        time: 1997 - 1999
+      - degree: "Associates: Psychology"
+        university: "Seattle Central College"
+        time: "1997 - 1999"
         details: |
           Focus on abnormal psychology.
           Major coursework:
@@ -77,9 +77,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Head of Data
-        time: Oct 2020 - Sep 2022 · 2 yrs
-        company: SeedLegals.com
+      - role: "Head of Data"
+        time: "Oct 2020 - Sep 2022 · 2 yrs"
+        company: "SeedLegals.com"
         details: |
           With 35+ thousand companies and over £1 billion in funding raised, SeedLegals is the largest platform
           for startup funding and legals in the UK. As such, they have some of the most interesting and valuable
@@ -89,9 +89,9 @@ experiences:
           our source data from a half-dozen disparate systems, built our data warehouse and most of its
           infrastructure, and designed our short and long-term data strategy.
 
-      - role: Business Analyst III
-        time: Apr 2018 - Apr 2020 · 2 yrs 1 mo
-        company: Rover.com
+      - role: "Business Analyst III"
+        time: "Apr 2018 - Apr 2020 · 2 yrs 1 mo"
+        company: "Rover.com"
         details: |
           Millions of completed bookings, hundreds of thousands of active service providers, and more data than
           you can shake a stick at.
@@ -108,9 +108,9 @@ experiences:
           
           I also wrote the data-literacy module of Rover's SQL 101 coursebook, and co-taught the 5-week course.
 
-      - role: Senior Business Intelligence Analyst
-        time: Sep 2013 - Oct 2017 (4 years 2 months)
-        company: Wizards of the Coast
+      - role: "Senior Business Intelligence Analyst"
+        time: "Sep 2013 - Oct 2017 (4 years 2 months)"
+        company: "Wizards of the Coast"
         details: |
           Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other
           games—is a long-time titan in the card-game industry with decades of data on player and customer
@@ -129,9 +129,9 @@ experiences:
           
           I conducted research and built valuable models for legal, which aided in favorable outcomes for Wizards and Hasbro.
 
-      - role: Data Analyst & Systems Administrator
-        time: Aug 2009 - Dec 2010 (1 year 5 months)
-        company: Sound Transit
+      - role: "Data Analyst & Systems Administrator"
+        time: "Aug 2009 - Dec 2010 (1 year 5 months)"
+        company: "Sound Transit"
         details: |
           To provide mass transit to the Pacific Northwest, Sound Transit relies on a lot of contractors and, 
           through their commitment to supporting small and disadvantaged businesses, are responsible for many 
@@ -153,10 +153,10 @@ projects:
         tagline: "project description"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: "Skills & Proficiency"
 
     toolset:
-      - name: Data Analytics
+      - name: "Data Analytics"
         level: 100%
 
       - name: SQL
@@ -165,10 +165,10 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Data Visualization
+      - name: "Data Visualization"
         level: 90%
 
-      - name: Team Management
+      - name: "Team Management"
         level: 80%
 
 footer: >
