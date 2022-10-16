@@ -26,7 +26,7 @@ sidebar:
     pdf:
 
     languages:
-      title: Programming Languages
+      title: Top Languages
       info:
         - idiom: SQL / PostgreSQL
           level: Expert
@@ -49,7 +49,7 @@ sidebar:
         - item: "Open-Source Intelligence (OSINT)"
           link: "https://osintcurio.us/"
 
-        - item: "Linux & Open-Source"
+        - item: "Linux & FOSS"
           link: "https://www.linuxfoundation.org/about"
 
         - item: "Hacking CTFs"
@@ -106,13 +106,22 @@ experiences:
         time: "Oct 2020 - Sep 2022 · 2 yrs"
         company: "SeedLegals.com"
         details: |
-          With 35+ thousand companies and over £1 billion in funding raised, SeedLegals is the largest platform
-          for startup funding and legals in the UK. As such, they have some of the most interesting and valuable
-          data in their industry.
-
-          In my time working with SL, I've hired and led a wonderful and productive data team, de-siloed
-          our source data from a half-dozen disparate systems, built our data warehouse and most of its
-          infrastructure, and designed our short and long-term data strategy.
+          SeedLegals is the largest platform for startup funding and legals in the UK,
+          with £1+ billion in funding raised and 35k companies and investors on platform.
+          
+          * Reported to CEO and collaborated with C-level executives on big-picture projects (G-Suite, Slack)
+          * Worked internationally with stakeholders across the UK, Europe, APAC, and the Middle East
+          * Planned SL’s data strategy and created short/long-term data roadmap
+          * Hired, trained, and managed SL’s international, hybrid data team (BI & DS, FactorialHR)
+          * Built and administered SL’s data warehouse (AWS, Postgres)
+          * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
+          * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling product team to better understand application usage
+          * Designed and MVP’d the Term-o-Meter (ToM), an application for analyzing and presenting deal-term data
+          
+          Some articles citing my data:
+            https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding
+            https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor/
+            https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees/
 
       - role: "Business Analyst III"
         time: "Apr 2018 - Apr 2020 · 2 yrs 1 mo"
@@ -134,8 +143,8 @@ experiences:
           I also wrote the data-literacy module of Rover's SQL 101 coursebook, and co-taught the 5-week course.
 
       - role: "Senior Business Intelligence Analyst"
-        time: "Sep 2013 - Oct 2017 (4 years 2 months)"
-        company: "Wizards of the Coast"
+        time: "Sep 2013 - Oct 2017 · 4 yrs 2 mo"
+        company: "Wizards of the Coast (Hasbro)"
         details: |
           Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other
           games—is a long-time titan in the card-game industry with decades of data on player and customer
@@ -155,7 +164,7 @@ experiences:
           I conducted research and built valuable models for legal, which aided in favorable outcomes for Wizards and Hasbro.
 
       - role: "Data Analyst & Systems Administrator"
-        time: "Aug 2009 - Dec 2010 (1 year 5 months)"
+        time: "Aug 2009 - Dec 2010 · 1 yr 5 mo"
         company: "Sound Transit"
         details: |
           To provide mass transit to the Pacific Northwest, Sound Transit relies on a lot of contractors and, 
@@ -203,7 +212,7 @@ projects:
 
     assignments:
       - title: Term-o-Meter
-        link: "#hook"
+        link: "#project_tom"
         tagline: |
           Given SeedLegals' mission to be a startup's best friend–and the many thousands of successful funding rounds closed on the platform–Tom was an inevitability.
 
@@ -214,7 +223,7 @@ projects:
           Planned updates aim to increase the power of Tom by tracking startup success farther into the future as well as increasing the number of dimensions Tom considers in its analyses.
 
       - title: Bad Actor Detection and Swift Suspension
-        link: "#hook"
+        link: "#project_badass"
         tagline: |
           To combat phishing, SEO manipulation, and general bot account creation, I created a couple tools using machine learning with Python and SQL to determine the likelihood that a new account was a "bad actor".
 
@@ -223,14 +232,14 @@ projects:
           Between the two of these, Rover was able to materially reduce the number of interactions these accounts initiated with users.
 
       - title: Graphicacy Module for Data Analytics Training
-        link: "#hook"
+        link: "#project_graphicacy"
         tagline: |
           While we've witnessed a massive explosion in data over the past years, we haven't seen a similar rise in data literacy. So, while teaching SQL and data analytics courses at Rover, in order to help democratize access to and understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
           This module was quickly made part of the curriculum for all SQL courses at Rover in the US, before being rolled out to all offices shortly after.
 
       - title: Magic Duels
-        link: "#hook"
+        link: "#project_duels"
         tagline: |
           """
           Z was pivotal and excellent in making the Duels BI Reporting effort a success...in the weeks preceding launch, he demonstrated attributes of what I consider real excellence, and without him our ask for heroics to deliver BI for the team would have severely suffered. I can cite the specifics:
@@ -253,7 +262,7 @@ projects:
           This was a review my department head shared with me from one of the PMs on the Duels project.
 
       - title: Diversity Reporting Program
-        link: "#hook"
+        link: "#project_dirp"
         tagline: |
           The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
 
