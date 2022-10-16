@@ -60,10 +60,10 @@ sidebar:
 
 career-profile:
     title: "Full-stack Data Professional"
-    summary:  >-
-        A Seattle native with over a decade of experience successfully leveraging data analytics and business intelligence into action and revenue. I've done so across a range of companies and industries, in both the US and UK.
+    summary: |
+        I have more than a decade of experience using data to successfully drive action and positive outcomes.
 
-        My insights have been directly responsible for millions in revenue and savings per year at companies I've worked with, and my teams' projects have been worth many times that.
+        My, and my teams', work has been responsible for millions of dollars in extra revenue and savings each year at companies I've worked with.
 
 skills:
     title: "Skills & Proficiency"
@@ -72,10 +72,10 @@ skills:
       - name: "Business & Data Analytics"
         level: 100%
 
-      - name: SQL
+      - name: "SQL"
         level: 95%
 
-      - name: Python
+      - name: "Python"
         level: 90%
 
       - name: "Data Modeling"
@@ -106,8 +106,7 @@ experiences:
         time: "Oct 2020 - Sep 2022 · 2 yrs"
         company: "SeedLegals.com"
         details: |
-          SeedLegals is the largest platform for startup funding and legals in the UK,
-          with £1+ billion in funding raised and 35k companies and investors on platform.
+          SeedLegals is the largest platform for startup funding and legals in the UK, with £1+ billion in funding raised and 35k+ companies and investors on platform.
           
           * Reported to CEO and collaborated with C-level executives on big-picture projects (G-Suite, Slack)
           * Worked internationally with stakeholders across the UK, Europe, APAC, and the Middle East
@@ -117,65 +116,49 @@ experiences:
           * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
           * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling product team to better understand application usage
           * Designed and MVP’d the [Term-o-Meter (ToM)](#project_tom), an application for analyzing and presenting deal-term data
+          * Advised startups on data-related product development and strategy
           
           Some articles citing my data:
-            * https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding
-            * https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor/
-            * https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees/
+            * [Narrative Violation: Women led startups - you can get funding (SpiceStartups.com)](https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding)
+            * [Startup advisor shares: How much equity should you give your advisor? (SeedLegals.com)](https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor)
+            * [Startup equity: how much to give employees (SeedLegals.com)](https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees)
 
       - role: "Business Analyst III"
         time: "Apr 2018 - Apr 2020 · 2 yrs 1 mo"
         company: "Rover.com"
         details: |
-          Millions of completed bookings, hundreds of thousands of active service providers, and more data than
-          you can shake a stick at.
+          Rover is the world’s largest network of 5-star pet sitters and dog walkers, with millions of completed bookings, hundreds of thousands of active service providers, and more data than you can shake a stick at.
           
-          While working with Rover, I supported all of Rover Operations: Customer Experience, Safety & Enforcement, Booking Assurance, and Workforce Management.
-          I participated in hiring, training, and mentoring new data and business analysts.
-          
-          My fraud research resulted in workflow changes that saved hundreds of thousands of dollars per year
-          by reducing the labor needed to recover disintermediation losses, lowering phishing and account
-          takeover attempts, and increasing platform safety.
-          
-          I engineered a disaster-relief pipeline that cut hurricane and earthquake response rates from multiple
-          days to a few hours.
-          
-          I also wrote the data-literacy module of Rover's SQL 101 coursebook, and co-taught the 5-week course.
+          * Supported Rover’s Operations locally and internationally, including: CX, Booking Assurance, Trust & Safety, as well as the Data Science, Finance, and London satellite data teams
+          * Participated in hiring, training, and mentoring new data and business analysts
+          * Built most of Operations' analytical data structures, enabling greater understanding of Rover customers and more actionable KPIs  
+          * Researched disintermediation and implemented workflow that saved ~$500k/yr, reduced negative customer experiences, phishing messages, and account takeover incidents
+          * Engineered a disaster-relief pipeline that cut hurricane and earthquake response rates from multiple days to a few hours and saved more than just operational costs
+          * Authored the data-literacy module of Rover’s SQL 101 coursebook, and co-taught the 5-week internal course
 
       - role: "Senior Business Intelligence Analyst"
         time: "Sep 2013 - Oct 2017 · 4 yrs 2 mo"
         company: "Wizards of the Coast (Hasbro)"
         details: |
-          Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other
-          games—is a long-time titan in the card-game industry with decades of data on player and customer
-          behavior across video games, esports, retail business, and events.
+          Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other games—is a long-time titan in the card-game industry with decades of data on player and customer behavior across video games, esports, retail business, and events.
           
-          As lead analyst for WotC’s Organized Play division, I developed player behavior models to help
-          business understand the impact of program changes, resulting in increased utilization of product—
-          considerably reducing printing and shipping inefficiencies.
-          
-          My team built the data warehouse used for Magic: Duels, which was the first time WotC was able to
-          analyze big data from this product line, contributing it to be the most successful installment in the series.
-          
-          As a Tableau expert, I headed the Tableau Server company-wide rollout, bringing near-real-time insights to stakeholders.
-          
-          I designed and built an esports commentary pipeline—cutting the roughly 3-week manual process to under 72 hours and dramatically improving its scope.
-          
-          I conducted research and built valuable models for legal, which aided in favorable outcomes for Wizards and Hasbro.
+          * Developed player behavior models to forecast the impact program changes would have on player growth, retention, and lifetime revenue
+          * Reduced printing and shipping inefficiencies, by accurately predicting major event attendance and product utilization
+          * Co-built the data warehouse and fraud detection algorithms used for the Magic: Duels video game, contributing to it being the most successful installment in the series
+          * Headed company-wide rollout of Tableau Server, bringing near-real-time insights to stakeholders
+          * Designed and built an esports commentary pipeline—cutting the roughly 3-week manual process to under 72 hours and dramatically improving its scope
+          * Research and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
+
 
       - role: "Data Analyst & Systems Administrator"
         time: "Aug 2009 - Dec 2010 · 1 yr 5 mo"
         company: "Sound Transit"
         details: |
-          To provide mass transit to the Pacific Northwest, Sound Transit relies on a lot of contractors and, 
-          through their commitment to supporting small and disadvantaged businesses, are responsible for many 
-          millions of dollars going to female and minority-owned companies.
+          Sound Transit provides mass transit options to the Pacific NorthWest and—through their commitment to supporting small and disadvantaged businesses—are responsible for many millions of dollars going to female and minority-owned companies.
           
-          While working there I developed a system to acquire, track, and analyze business and workforce data 
-          associated with gender and race equality from 500+ companies, ensuring compliance with local and 
-          federal contracts. This enabled Sound Transit to obtain and release over $500 million in government 
-          grants and was instrumental in the department earning the Rosa Parks Award for outstanding 
-          commitment to equality in 2011.
+          * Developed a system to acquire, analyze, and track gender and race equality data from 500+ companies, ensuring compliance with local and federal laws
+          * Visited construction sites regularly to inspect workforce data
+          * Designed and built EEO reporting, proving effectiveness of diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
 
 education:
     title: Education
@@ -211,18 +194,18 @@ projects:
     intro:
 
     assignments:
-      - title: Term-o-Meter
+      - title: "Term-o-Meter"
         link: "#project_tom"
         tagline: |
           Given SeedLegals' mission to be a startup's best friend–and the many thousands of successful funding rounds closed on the platform–Tom was an inevitability.
 
-          Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of Tom before tasking my team to bring it life. A (currently) internal tool, Tom consists of a visual interface on top of a program that aggregates and analyzes interactions between key deal terms and funding round statistics. 
+          Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of ToM before tasking my team to bring it life. A (currently) internal tool, Tom consists of a visual interface on top of a program that aggregates and analyzes interactions between key deal terms and funding round statistics. 
 
           Term-o-Meter provides SeedLegals a deep insight into how founders and investors negotiate deal terms and how successful those deals turn out to be.
 
           Planned updates aim to increase the power of Tom by tracking startup success farther into the future as well as increasing the number of dimensions Tom considers in its analyses.
 
-      - title: Bad Actor Detection and Swift Suspension
+      - title: "Bad Actor Detection and Swift Suspension"
         link: "#project_badass"
         tagline: |
           To combat phishing, SEO manipulation, and general bot account creation, I created a couple tools using machine learning with Python and SQL to determine the likelihood that a new account was a "bad actor".
@@ -231,37 +214,19 @@ projects:
 
           Between the two of these, Rover was able to materially reduce the number of interactions these accounts initiated with users.
 
-      - title: Graphicacy Module for Data Analytics Training
+      - title: "Graphicacy Module for Data Analytics Training"
         link: "#project_graphicacy"
         tagline: |
           While we've witnessed a massive explosion in data over the past years, we haven't seen a similar rise in data literacy. So, while teaching SQL and data analytics courses at Rover, in order to help democratize access to and understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
           This module was quickly made part of the curriculum for all SQL courses at Rover in the US, before being rolled out to all offices shortly after.
 
-      - title: Magic Duels
+      - title: "Magic: Duels"
         link: "#project_duels"
         tagline: |
-          """
-          Z was pivotal and excellent in making the Duels BI Reporting effort a success...in the weeks preceding launch, he demonstrated attributes of what I consider real excellence, and without him our ask for heroics to deliver BI for the team would have severely suffered. I can cite the specifics:
+          
 
-          -Critical thinking skills- Z thinks through and visualizes a problem in an end-to-end, optionality-driven way.
-
-          -Communication- Z is a consistently excellent, logical communicator. He is able to raise his response above simply replaying what he did, and synthesize answers and comments at the Goal level, which is a rare trait.
-
-          -Domain knowledge- Z knows his stuff when it comes to analysis and BI, able to context switch rapidly between subject matters, and understand cross-dependencies quickly. He was able to grasp and execute excellently on the priorities of the business, and collaborate well with partners in technology.
-
-          -Cuts through It- Z can, and does, often understand the difference between wasted noise and important information, and takes a leadership-level stance in getting the team to see the point.
-
-          -Machine (process) thinking- Z is self-aware of what part he plays in achieving a goal, and tethers to that even when forces of distraction come into play. He’s able to stick to the process, get the results, and prove value rapidly and repeatedly.
-
-          I wanted to call this out because I think it deserves recognition. It may be redundant from comments others have made, but I’ll view that as reinforcing the points.
-
-          As an ancillary point, Z has been helping on the BIDW project, and in many offline conversations, I’m grateful to have his insights and the traits I listed above working in service of making that effort a success as well.
-          """
-
-          This was a review my department head shared with me from one of the PMs on the Duels project.
-
-      - title: Diversity Reporting Program
+      - title: "Diversity Reporting Program"
         link: "#project_dirp"
         tagline: |
           The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
