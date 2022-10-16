@@ -116,12 +116,12 @@ experiences:
           * Built and administered SL’s data warehouse (AWS, Postgres)
           * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
           * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling product team to better understand application usage
-          * Designed and MVP’d the Term-o-Meter (ToM), an application for analyzing and presenting deal-term data
+          * Designed and MVP’d the [Term-o-Meter (ToM)](#project_tom), an application for analyzing and presenting deal-term data
           
           Some articles citing my data:
-            https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding
-            https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor/
-            https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees/
+            * https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding
+            * https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor/
+            * https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees/
 
       - role: "Business Analyst III"
         time: "Apr 2018 - Apr 2020 · 2 yrs 1 mo"
