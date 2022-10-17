@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: "Z Hespelt"
     tagline: "Full Stack Data Professional"
-    avatar: profile_alpha.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: "z@zhespelt.com"
@@ -133,7 +133,7 @@ experiences:
           * Participated in hiring, training, and mentoring new data and business analysts
           * Built most of Operations' analytical data structures, enabling greater understanding of Rover customers and more actionable KPIs  
           * Researched disintermediation and implemented workflow that saved ~$500k/yr, reduced negative customer experiences, phishing messages, and account takeover incidents
-          * Engineered a disaster-relief pipeline that cut hurricane and earthquake response rates from multiple days to a few hours and saved more than just operational costs
+          * Engineered a disaster-relief pipeline that cut disaster response times from multiple days to a few hours and saved more than just operational costs
           * Authored the data-literacy module of Rover’s SQL 101 coursebook, and co-taught the 5-week internal course
 
       - role: "Senior Business Intelligence Analyst"
@@ -224,7 +224,11 @@ projects:
       - title: "Magic: Duels"
         link: "#project_duels"
         tagline: |
+          Magic: Duels—an expansive online TCG made by Wizards of the Coast—was quickly approaching launch when WotC made the decision to bring development and tracking for the game in-house.
           
+          I gathered a small team to tackle the task of building a solution to capture app data, report on critical performance metrics and monitor player behavior.
+          
+          Within a few weeks, our project was successfully detecting and stopping fraudulent in-game transactions, delivering full-coverage KPIs to leadership, and exposing pain-points that were causing player drop-off.  
 
       - title: "Diversity Reporting Program"
         link: "#project_dirp"
@@ -232,6 +236,100 @@ projects:
           The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
 
           My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as protecting contract bids for S&D businesses.
+
+testimonials:
+    title: Testimonials
+    intro:
+
+    assignments:
+      - author: "Zameen Brar"
+        link: "https://www.linkedin.com/in/zameenbrar/"
+        tagline: |
+          A pleasure working with Z, he is one of the quickest and most efficient co-workers I have ever met. 
+          Appreciate all the ways Z supported the Business Development Team to scale our Partnerships with data-driven insights.
+
+      - author: "Suzanne Worthington"
+        link: "https://www.linkedin.com/in/suzanneworthington/"
+        tagline: |
+          If you're reading this, it's probably because you need a data genius - you've found him. You can skip reading this and just message Z now! (In case you're wondering, it's pronounced 'Zee'.)
+          
+          I work with Z at SeedLegals - I'm in Marketing and we rely on data to assess our performance and guide our decisions. 
+          
+          At SeedLegals, Z created our data and BI strategy, built the data infrastructure, and developed and runs company-wide reporting. Z also led projects to help our customers use data, for example to understand which terms are most common in startup contracts, how to reward advisors, and how to decide when to pay themselves a salary. 
+          
+          Z built the Data team from one (just him) in 2020 to three, hiring Wafa'a in 2021 and Ben in 2022.
+          
+          I enjoy every meeting with Z - his knowledge and experience of data and data security is unfathomably deep and he's always happy to explain things I don't understand. He cares about people doing the right thing (ethically and legally) and I love how passionate Z is about helping people understand why (as well as how) they should protect their data and personal details. 
+          
+          Are you still reading this?? Message Z right now!
+
+      - author: "Neil Marklew"
+        link: "https://www.linkedin.com/in/neil-marklew-a5293220/"
+        tagline: |
+          In our time at SeedLegals, Z has balanced the technical nuances of big data and applied them to commercial requirements. He has earned the respect and trust of the SeedLegals team by contributing at big picture level, as well as providing feedback on decisions and interpretation.
+          
+          Z has added structure to the data function at SeedLegals, managing the data team and their workload with a fast paced but sustainable work environment.
+          
+          He has taken ownership of key workflow areas such as data acquisition, data quality, prioritisation and presentation of results. In short, Z knows how to provide, data science solutions for real-world applications - he can plan and manage data for business processes and changes, as well as IT operations changes.
+
+      - author: "Wafa'a Abu Al Rub"
+        link: "https://www.linkedin.com/in/wafa-a-abu-al-rub-82b277149/"
+        tagline: |
+          Z is an extremely passionate, intelligent, and multi-faceted person with an impressive breadth and depth of knowledge in the data domain and many other fields.
+          
+          Z was my manager and mentor during my work at Seedlegals. Looking back on the growth in the skills I developed and gained since I started working with him is undoubtedly valuable, and I truly appreciate it.
+          
+          His strong technical background helped in building a well-established data infrastructure layer, creating useful data searching and manipulating tools that made our interaction with the data and files extremely effective and fast, especially when it came to building reports on top of the cleaned BI data layer and answering many business questions. 
+          
+          He is the kind of leader who thinks about solving complex problems strategically and can visualize how to solve them within scalable frameworks that perfectly fit within the overall system, solves it effectively, and can be scaled up to handle unexpected and emerging challenges. 
+          
+          Z has keen insights into how people think, learn, behave, and coming from this deep understanding he always cared to lead by creating a safe atmosphere where people can explore and learn about their potential and limits without the fear of making mistakes. He gives the trust and the sense of autonomy to others to own the process without any micromanagement besides providing an open room to always ask for help and find support.
+          
+          He had never hesitated to give constructive feedback with realistic and actionable pieces of advice to act on and was always generous in dedicating time to mentor us on using many tools, advanced techniques, tips, tricks, and applying the best practices in the field. On a company level, Z contributed by writing, sharing articles, and giving workshops that raised awareness about data security and privacy and emphasized the importance of considering the ethical and moral aspects when sharing and working with data. 
+          
+          I believe Z's passion, great spirit, and curiosity will always push him toward more success in the future. It was a pleasure working with Z, and I would gladly work with him again, and I wish him the very best in his life and career.
+
+      - author: "Ben O'Rourke"
+        link: "https://www.linkedin.com/in/benjorourke/"
+        tagline: |
+          Z is a passionate leader with an extensive knowledgebase of data engineering & analytics, making company-wide impressions with all of his work. Z has played an integral role in building a data team, alongside its entire infrastructure, from the ground up whilst maintaining continuous vision and direction. His hands-on approach with incredible proficiency and willingness to help has allowed the entire data team to benefit unendingly through continual mentorship.
+
+      - author: "Hugo Cheyne"
+        link: "https://www.linkedin.com/in/hugocheyne/"
+        tagline: |
+          Z took a very rudimentary data stack of Stitch + Tableau which I had set up and turned the data pipeline into a data engineer’s dream, and the static visualizations into interactive apps to deliver business value. He single-handedly turned Postgres on S3 (per CTO security requirements) into a live refreshing data warehouse with staging and mart tables. This scalable infrastructure allowed the business analysts and data scientists that he hired to get off the ground quickly and set SeedLegals on the path to data success. It also helped significantly that Z has a great eye for talent, and once he hires great staff, he trains them well too. His hires and I benefited from his great patience and tutelage, spending hours passing on knowledge of Data Engineering and Analysis best practices.
+
+      - author: "Charlie Wickers"
+        link: "https://www.linkedin.com/in/charlie-wickers-60086a4/"
+        tagline: |
+          Z is a dedicated, insightful, technical and extremely intelligent team member. Z used his dedication to others to always lift them up and teach them new tools, tips and tricks. This resulted in Z always raising the technical bar of the whole team. His analysis yielded amazing learnings from his complex deep dives. He was able to use his insightfulness to shine spot lights on specific items that needed to be actioned as a result of his work. He also has a passion for security and physical locks - which he brought into the work environment - allowing Z to help the company create early fraud detection tools that moved the needle. Z will be an amazing asset to any team!
+
+      - author: "Sam Heckman"
+        link: "https://www.linkedin.com/in/samheckman/"
+        tagline: |
+          Z is an invaluable analyst and business partner. We worked together at Wizards of the Coast on numerous project where he triumphed over ambiguity to bring insights to the team. He outlined patterns and trends that allowed me to immediately make better decisions. I’d recommend Z to any team looking to see the truth in massive amounts of data. 
+
+      - author: "Christopher Quarles"
+        link: "https://www.linkedin.com/in/christopherquarles/"
+        tagline: |
+          Z is one of the most knowledgeable people I know about the statistics and analysis of big data sets. His advice regarding the use of Bayesian statistics in my own research was extremely helpful, and I hope to ask him for help again. I’ve also found Z to be quite thoughtful around the ethics and potential consequences of our increasingly data-rich world.
+
+      - author: "Shea Valentine"
+        link: "https://www.linkedin.com/in/sheavalentine/"
+        tagline: |
+          Z Hespelt has a knack for picking up any task presented to him. He quickly can look at any data set, discover what makes it unique, derive an algorithm to process it, and solve the problem for all future use cases. 
+          
+          His dedication and insight are always invaluable in any technical or data project.
+
+      - author: "Jay Freistadt"
+        link: "https://www.linkedin.com/in/jayfreistadt/"
+        tagline: |
+          Z is an impressive data-driven analyst; the data update system that he put in place for immediate monitoring of workforce data at Sound Transit Diversity team was robust, simplifying the flow of data from contractors to Sound Transit. He provided me orientation for my role as intern, and I still utilize the frameworks that he set to measure contractor performance against project labor agreements.
+
+      - author: "Greg Mowat"
+        link: "https://www.linkedin.com/in/gregtmowat/"
+        tagline: |
+          Z is a thoughtful, insightful, inqusitive, bright individual with a deep talent related to numbers and the stories that they tell. He works well with teams, responds to pressure in an emotional mature manner, and delivers on time! Z is a delight with whom to work and always focused and well organized! He brought our team through many a critical spot with elegance and grace!
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
