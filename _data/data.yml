@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     about: False
     education: False
@@ -9,7 +5,7 @@ sidebar:
     # Profile information
     name: "Z Hespelt"
     tagline: "Full Stack Data Professional"
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: "profile.png"
 
     # Sidebar links
     email: "z@zhespelt.com"
@@ -20,19 +16,19 @@ sidebar:
     website: "zhespelt.com"
     linkedin: "zhespelt"
     github: "zhespelt"
-    twitter: 
     stack-overflow: "1767229/zsh"
+    twitter:
 
     pdf:
 
     languages:
-      title: Top Languages
+      title: "Top Languages"
       info:
-        - idiom: SQL / PostgreSQL
-          level: Expert
+        - idiom: "SQL / PostgreSQL"
+          level: "Expert"
 
-        - idiom: Python
-          level: Proficient
+        - idiom: "Python"
+          level: "Proficient"
 
     interests:
       title: Interests
@@ -100,7 +96,7 @@ skills:
         level: 60%
 
 experiences:
-    title: Experiences
+    title: "Experiences"
     info:
       - role: "Head of Data"
         time: "Oct 2020 - Sep 2022 · 2 yrs"
@@ -161,7 +157,7 @@ experiences:
           * Designed and built EEO reporting, proving effectiveness of diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
 
 education:
-    title: Education
+    title: "Education"
     info:
       - degree: "BS: CIS"
         university: "Cleveland State University"
@@ -190,7 +186,7 @@ education:
             - Experiment methodology
 
 projects:
-    title: Projects
+    title: "Projects"
     intro:
 
     assignments:
@@ -238,7 +234,7 @@ projects:
           My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as protecting contract bids for S&D businesses.
 
 testimonials:
-    title: Testimonials
+    title: "Testimonials"
     intro:
 
     assignments:
