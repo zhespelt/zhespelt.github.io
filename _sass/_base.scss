@@ -196,10 +196,13 @@ p {
     font-weight: 500;
   }
   .time {
+    color: $text-grey;
     margin-bottom: 0;
   }
   .company {
+    color: $text-grey;
     margin-top: 0;
+    margin-bottom: 2px;
   }
   .university {
     margin-bottom: 10px;
