@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dd36c5-2000-46f7-887b-999566659e24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_sass/skins/_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/skins/_turquoise.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/skins/_turquoise.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/z/Workspace/zhespelt.github.io/assets/images",
+    "last_opened_file_path": "/home/z/Workspace/zhespelt.github.io/docker-compose.yml",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -36,6 +42,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Site Preview" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,7 +64,7 @@
       <updated>1665504495876</updated>
       <workItem from="1665504498598" duration="8023000" />
       <workItem from="1665787008767" duration="318000" />
-      <workItem from="1665787408190" duration="34819000" />
+      <workItem from="1665787408190" duration="44288000" />
     </task>
     <servers />
   </component>
