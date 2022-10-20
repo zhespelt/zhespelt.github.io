@@ -4,12 +4,14 @@
     - https://seaborn.pydata.org/generated/seaborn.color_palette.html
 */
 
-$darken-amount: 30%;
-$lighten-amount: 50%;
+$primary-color-1: #5a7d9a;
+$primary-color-2: #c04e01;
+$primary-color-3: #9ffeb0;
 
-$primary-color-1: #4c71af; // Faded blue
-$primary-color-2: #db8352;
-$primary-color-3: #cbb873;
+$lumen-small: 10%;
+$lumen-med: 35%;
+$lumen-large: 60%;
+
 
 /* Basic colors */
 $black: #000000;
@@ -17,49 +19,50 @@ $light-grey: #d8dcd6;
 $dark-grey: #363737;
 $white: #ffffff;
 
-$pink: #ff2c85;
-$purple: #ff01f2;
-$red: #ff0000;
+$pink: #ff028d;
+$purple: #7e1e9c;
+$red: #e50000;
+
 
 /* Default colors */
 $unknown: $red;
 
-$background-light: lighten($primary-color-1, $lighten-amount);
-$background-dark: darken($primary-color-1, $darken-amount);
+$background-light: lighten($primary-color-1, $lumen-med);
+$background-dark: darken($primary-color-1, $lumen-med);
 
-$heading-light: lighten($primary-color-2, $lighten-amount);
-$heading-dark: darken($primary-color-2, $darken-amount);
+$heading-light: lighten($primary-color-2, $lumen-large);
+$heading-dark: darken($primary-color-2, $lumen-large);
 
 $text-light: $white;
 $text-dark: $black;
 
-$text-link-light: lighten($primary-color-2, $lighten-amount);
-$text-link-dark: darken($primary-color-2, $darken-amount);
+$text-link-light: lighten($primary-color-2, $lumen-small);
+$text-link-dark: darken($primary-color-2, $lumen-small);
 
 $avatar-border-color: $unknown;
-$background: $background-dark;
+$background: $unknown;
 $body-background: $background-dark;
 $body-text-color: $text-dark;
 $company-text-color: $text-dark;
 $job-edu-title-text-color: $text-dark;
 $language-prof-text-color: $text-light;
-$link-text-dark: $text-link-dark;
-$link-text-light: $text-link-light;
-$page-background: $background-dark;
-$profile-container-background: $background-dark;
-$profile-container-text: $background-light;
+$link-text-dark: black;
+$link-text-light: $white;
+$page-background: $unknown;
+$profile-container-background: darken($primary-color-1, $lumen-small); // profile pic background
+$profile-container-text: $text-light;
 $project-title-color: $unknown;
-$resume-background: $background-light;
+$resume-background: darken($white, $lumen-small);
 $resume-title-color: $text-dark;
 $sidebar-background: $background-dark;
-$sidebar-wrapper-background: $background-dark;
-$sidebar-wrapper-link-color: $background-light;
-$sidebar-wrapper-text-color: $background-light;
-$skill-bar-foreground-color: $background-dark;
-$skillbar-background-color: $background-light;
-$time-text-color: $text-dark;
-$title-color: $text-dark;
-$university-text-color: $text-dark;
+$sidebar-wrapper-background: $primary-color-1;
+$sidebar-wrapper-link-color: $link-text-light;
+$sidebar-wrapper-text-color: $text-light;
+$skill-bar-foreground-color: darken($primary-color-1, $lumen-small);
+$skill-bar-background-color: $light-grey;
+$time-text-color: $dark-grey;
+$title-color: $primary-color-2;
+$university-text-color: $dark-grey;
 $wrapper-background: $background-light;
 
 /* Misc */

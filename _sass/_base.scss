@@ -19,10 +19,10 @@ h6 {
 }
 
 a {
-  color: darken($link-text-dark, 15%);
+  color: darken($link-text-dark, $lumen-small);
   &:hover {
     text-decoration: underline;
-    color: darken($link-text-dark, 30%);
+    color: darken($link-text-dark, $lumen-med);
   }
   &:focus {
     text-decoration: none;
@@ -53,7 +53,7 @@ p {
   }
   .profile-container {
     padding: 30px;
-    background: darken($profile-container-background, 10%);
+    background: darken($profile-container-background, $lumen-small);
     text-align: center;
     color: $profile-container-text;
   }
@@ -166,7 +166,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($resume-title-color, 15%);
+    color: darken($resume-title-color, $lumen-small);
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -215,7 +215,7 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($project-title-color, 15%);
+    color: darken($project-title-color, $lumen-small);
   }
   .projects-section {
     .intro {
@@ -240,11 +240,11 @@ p {
   }
   .level-bar {
     height: 12px;
-    background: $skillbar-background-color;
+    background: $skill-bar-background-color;
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($skill-bar-foreground-color, 15%);
+    background: lighten($skill-bar-foreground-color, $lumen-small);
   }
 }
 
@@ -260,10 +260,10 @@ p {
     color: $heart;
   }
   .a {
-  color: darken($link-text-light, 15%);
+  color: darken($link-text-light, $lumen-small);
   &:hover {
     text-decoration: underline;
-    color: darken($link-text-light, 30%);
+    color: darken($link-text-light, $lumen-med);
   }
   &:focus {
     text-decoration: none;
