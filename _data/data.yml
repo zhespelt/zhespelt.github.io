@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: "Full-stack Data Professional"
     summary: |
-        I have more than a decade of experience using data to successfully drive action and positive outcomes.
+        I have more than a decade's worth of experience using data to successfully drive action and positive outcomes.
 
         My, and my teams', work has been responsible for millions of dollars in extra revenue and savings each year at companies I've worked with.
 
@@ -110,11 +110,11 @@ experiences:
           * Hired, trained, and managed SL’s international, hybrid data team (BI & DS, FactorialHR)
           * Built and administered SL’s data warehouse (AWS, Postgres)
           * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
-          * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling product team to better understand application usage
-          * Designed and MVP’d the [Term-o-Meter (ToM)](#project_tom), an application for analyzing and presenting deal-term data
+          * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling the product team to better understand application usage
+          * Designed and MVP’d the Term-o-Meter (ToM), an application for analyzing and presenting deal-term data
           * Advised startups on data-related product development and strategy
           
-          Some articles citing my data:
+          Sample of articles using my analyses:
             * [Narrative Violation: Women led startups - you can get funding (SpiceStartups.com)](https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding)
             * [Startup advisor shares: How much equity should you give your advisor? (SeedLegals.com)](https://seedlegals.com/resources/how-much-equity-should-i-give-an-advisor)
             * [Startup equity: how much to give employees (SeedLegals.com)](https://seedlegals.com/resources/how-much-equity-should-uk-startups-give-employees)
@@ -136,14 +136,14 @@ experiences:
         time: "Sep 2013 - Oct 2017 · 4 yrs 2 mo"
         company: "Wizards of the Coast (Hasbro)"
         details: |
-          Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other games—is a long-time titan in the card-game industry with decades of data on player and customer behavior across video games, esports, retail business, and events.
+          Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other games—is a long-time titan in the card-game industry with decades' worth of data on player and customer behavior across video games, esports, retail business, and events.
           
           * Developed player behavior models to forecast the impact program changes would have on player growth, retention, and lifetime revenue
-          * Reduced printing and shipping inefficiencies, by accurately predicting major event attendance and product utilization
+          * Reduced printing and shipping inefficiencies by accurately predicting major event attendance and product utilization
           * Co-built the data warehouse and fraud detection algorithms used for the Magic: Duels video game, contributing to it being the most successful installment in the series
           * Headed company-wide rollout of Tableau Server, bringing near-real-time insights to stakeholders
           * Designed and built an esports commentary pipeline—cutting the roughly 3-week manual process to under 72 hours and dramatically improving its scope
-          * Research and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
+          * Researched and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
 
 
       - role: "Data Analyst & Systems Administrator"
@@ -154,7 +154,7 @@ experiences:
           
           * Developed a system to acquire, analyze, and track gender and race equality data from 500+ companies, ensuring compliance with local and federal laws
           * Visited construction sites regularly to inspect workforce data
-          * Designed and built EEO reporting, proving effectiveness of diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
+          * Designed and built EEO reporting, proving the effectiveness of the diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
 
 education:
     title: "Education"
@@ -166,8 +166,7 @@ education:
           Bachelor of Science: Computer Information Systems
           Graduated with high honors.
           
-          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp
-            as well as JSON, XML, RegEx, Yaml, Markdown
+          Programming languages studied: Java, Python, R, Perl, Prolog, C#, SQL, Lisp as well as heavy use of JSON, XML, RegEx, Yaml and Markdown
           
           Major coursework:
             - Data structures & algorithms
@@ -191,47 +190,61 @@ projects:
 
     assignments:
       - title: "Term-o-Meter"
-        link: "#project_tom"
+        link:
         tagline: |
-          Given SeedLegals' mission to be a startup's best friend–and the many thousands of successful funding rounds closed on the platform–Tom was an inevitability.
+          Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of the Term-o-Meter, aka Tom, 
+          before tasking my team to bring it life. Tom consists of a data visualization layer on top of a program that 
+          aggregates and analyzes interactions between key deal terms and funding round statistics. 
 
-          Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of ToM before tasking my team to bring it life. A (currently) internal tool, Tom consists of a visual interface on top of a program that aggregates and analyzes interactions between key deal terms and funding round statistics. 
-
-          Term-o-Meter provides SeedLegals a deep insight into how founders and investors negotiate deal terms and how successful those deals turn out to be.
-
-          Planned updates aim to increase the power of Tom by tracking startup success farther into the future as well as increasing the number of dimensions Tom considers in its analyses.
+          Tom provides SeedLegals a deep insight into how founders and investors negotiate deal terms and how 
+          successful those deals turn out to be.
 
       - title: "Bad Actor Detection and Swift Suspension"
-        link: "#project_badass"
+        link:
         tagline: |
-          To combat phishing, SEO manipulation, and general bot account creation, I created a couple tools using machine learning with Python and SQL to determine the likelihood that a new account was a "bad actor".
+          To combat phishing, SEO manipulation, and general bot account creation, 
+          I created a couple tools using machine learning and natural language processing with Python/NLTK and SQL 
+          to determine the likelihood that a new account was a "bad actor".
 
-          The first tool classified new accounts based on all of the statistically significant data points available, returning the probability of the account being suspended for bad actions in the future. The second scanned and reported on user interactions for patterns indicative of phishing.
+          The first tool classified new accounts based on all of the statistically significant data points available, 
+          returning the probability of the account being suspended for bad actions in the future. 
+          The second scanned and reported on user interactions for patterns indicative of phishing.
 
-          Between the two of these, Rover was able to materially reduce the number of interactions these accounts initiated with users.
+          Between these two tools, Rover was able to materially reduce the number of interactions these accounts 
+          initiated with users.
 
       - title: "Graphicacy Module for Data Analytics Training"
-        link: "#project_graphicacy"
+        link:
         tagline: |
-          While we've witnessed a massive explosion in data over the past years, we haven't seen a similar rise in data literacy. So, while teaching SQL and data analytics courses at Rover, in order to help democratize access to and understanding of data, I developed a module on data visualization, interpretation, and accessibility.
+          While the amount of data we generate and can access is growing exponentially, our data literacy and numeracy are not. 
+          So, while teaching the SQL and data analytics courses at Rover, in order to help democratize access to and 
+          understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
-          This module was quickly made part of the curriculum for all SQL courses at Rover in the US, before being rolled out to all offices shortly after.
+          This module was quickly made part of the curriculum for all SQL courses at Rover in the US, 
+          before being rolled out to all offices shortly after.
 
       - title: "Magic: Duels"
-        link: "#project_duels"
+        link:
         tagline: |
-          Magic: Duels—an expansive online TCG made by Wizards of the Coast—was quickly approaching launch when WotC made the decision to bring development and tracking for the game in-house.
+          Magic: Duels—an expansive online TCG made by Wizards of the Coast—was quickly approaching launch when WotC 
+          made the decision to bring development and tracking for the game in-house.
           
-          I gathered a small team to tackle the task of building a solution to capture app data, report on critical performance metrics and monitor player behavior.
+          I gathered a small team to tackle the task of building a solution to capture app data, report on critical 
+          performance metrics and monitor player behavior.
           
-          Within a few weeks, our project was successfully detecting and stopping fraudulent in-game transactions, delivering full-coverage KPIs to leadership, and exposing pain-points that were causing player drop-off.  
+          Within a few weeks, our project was successfully detecting and stopping fraudulent in-game transactions, 
+          delivering full-coverage KPIs to leadership, and exposing pain-points that were causing player drop-off.  
 
       - title: "Diversity Reporting Program"
-        link: "#project_dirp"
+        link:
         tagline: |
-          The Program was designed to transparently collect, analyze and present business and workforce data associated with gender and race equality from all of SoundTransit's contractors. It was used to track and prove legal compliance with government contracts for S&D businesses (small and disadvantaged - e.g. female/minority owned).
-
-          My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as protecting contract bids for S&D businesses.
+          The Program was designed to transparently collect, analyze and present business and workforce data 
+          associated with gender and race equality from all of SoundTransit's contractors. It was used to track and 
+          prove legal compliance with government contracts for S&D businesses 
+          (small and disadvantaged - e.g. female/minority owned).
+          
+          My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as 
+          protecting contract bids for S&D businesses.
 
 testimonials:
     title: "Testimonials"
@@ -327,5 +340,5 @@ testimonials:
         tagline: |
           Z is a thoughtful, insightful, inqusitive, bright individual with a deep talent related to numbers and the stories that they tell. He works well with teams, responds to pressure in an emotional mature manner, and delivers on time! Z is a delight with whom to work and always focused and well organized! He brought our team through many a critical spot with elegance and grace!
 
-footer: >
+footer: >-
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

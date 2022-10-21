@@ -1,4 +1,5 @@
 /* ======= Base ======= */
+
 body {
   font-family: "Roboto", sans-serif;
   color: $body-text-color;
@@ -19,10 +20,10 @@ h6 {
 }
 
 a {
-  color: darken($link-text-dark, $lumen-small);
+  color: $link-text;
   &:hover {
     text-decoration: underline;
-    color: darken($link-text-dark, $lumen-med);
+    color: $link-text-hover;
   }
   &:focus {
     text-decoration: none;
@@ -36,7 +37,7 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  background: $wrapper-background;
+  background: $black;
   max-width: 1400px;
   margin: 0 auto;
   position: relative;
@@ -53,7 +54,7 @@ p {
   }
   .profile-container {
     padding: 30px;
-    background: darken($profile-container-background, $lumen-small);
+    background: $profile-container-background;
     text-align: center;
     color: $profile-container-text;
   }
@@ -78,7 +79,7 @@ p {
     //used for profile image
     max-width: 150px;
     margin-bottom: 15px;
-    border: 0px solid $avatar-border-color;
+    border: 5px inset $avatar-border-color;
     border-radius: 100%;
     box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
   }
@@ -166,7 +167,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($resume-title-color, $lumen-small);
+    color: $resume-title-color;
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -215,7 +216,7 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($project-title-color, $lumen-small);
+    color: $project-title-color;
   }
   .projects-section {
     .intro {
@@ -244,7 +245,7 @@ p {
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($skill-bar-foreground-color, $lumen-small);
+    background: $skill-bar-foreground-color;
   }
 }
 
@@ -260,10 +261,10 @@ p {
     color: $heart;
   }
   .a {
-  color: darken($link-text-light, $lumen-small);
+  color: $copyright-text-color;
   &:hover {
     text-decoration: underline;
-    color: darken($link-text-light, $lumen-med);
+    color: $copyright-text-color;
   }
   &:focus {
     text-decoration: none;

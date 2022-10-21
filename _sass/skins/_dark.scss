@@ -4,67 +4,73 @@
     - https://seaborn.pydata.org/generated/seaborn.color_palette.html
 */
 
-$primary-color-1: #5a7d9a;
-$primary-color-2: #c04e01;
-$primary-color-3: #9ffeb0;
-
-$lumen-small: 10%;
-$lumen-med: 35%;
-$lumen-large: 60%;
-
-
 /* Basic colors */
 $black: #000000;
 $light-grey: #d8dcd6;
-$dark-grey: #363737;
+$dark-grey: #262626;
 $white: #ffffff;
 
-$pink: #ff028d;
-$purple: #7e1e9c;
-$red: #e50000;
+$error: #ff028d;
+
+$primary-color-1: #5a7d9a;
+$primary-color-2: #c04e01;
+$primary-color-3: #becbdc;
 
 
-/* Default colors */
-$unknown: $red;
+// theme ======================================================================
 
-$background-light: lighten($primary-color-1, $lumen-med);
-$background-dark: darken($primary-color-1, $lumen-med);
+// page background
+$body-background: $dark-grey;
 
-$heading-light: lighten($primary-color-2, $lumen-large);
-$heading-dark: darken($primary-color-2, $lumen-large);
 
-$text-light: $white;
-$text-dark: $black;
+// main content ===============================================================
 
-$text-link-light: lighten($primary-color-2, $lumen-small);
-$text-link-dark: darken($primary-color-2, $lumen-small);
+// main content background
+$resume-background: lighten($primary-color-2, 60%);
 
-$avatar-border-color: $unknown;
-$background: $unknown;
-$body-background: $background-dark;
-$body-text-color: $text-dark;
-$company-text-color: $text-dark;
-$job-edu-title-text-color: $text-dark;
-$language-prof-text-color: $text-light;
-$link-text-dark: black;
-$link-text-light: $white;
-$page-background: $unknown;
-$profile-container-background: darken($primary-color-1, $lumen-small); // profile pic background
-$profile-container-text: $text-light;
-$project-title-color: $unknown;
-$resume-background: darken($white, $lumen-small);
-$resume-title-color: $text-dark;
-$sidebar-background: $background-dark;
+// text
+$resume-title-color: $black; // section headers
+$job-edu-title-text-color: $primary-color-2;
+$time-text-color: lighten($black, 45%);
+$company-text-color: lighten($black, 45%);
+$university-text-color: lighten($black, 45%);
+$project-title-color: $primary-color-2;
+
+// text and H2
+$body-text-color: $dark-grey;
+
+// skill bar colors
+$skill-bar-background-color: darken($white, 5%);
+$skill-bar-foreground-color: lighten($primary-color-2, 35%);
+
+// links
+$link-text: darken($primary-color-1, 20%);
+$link-text-hover: darken($primary-color-1, 20%);
+$sidebar-wrapper-link-color: $white;
+
+
+// Sidebar ====================================================================
+
+// profile pic background
+$profile-container-background: darken($primary-color-1, 10%);
+
+// profile pic border
+$avatar-border-color: $primary-color-2;
+
+// sidebar lower background color
 $sidebar-wrapper-background: $primary-color-1;
-$sidebar-wrapper-link-color: $link-text-light;
-$sidebar-wrapper-text-color: $text-light;
-$skill-bar-foreground-color: darken($primary-color-1, $lumen-small);
-$skill-bar-background-color: $light-grey;
-$time-text-color: $dark-grey;
-$title-color: $primary-color-2;
-$university-text-color: $dark-grey;
-$wrapper-background: $background-light;
+
+// sidebar logos and titles
+$sidebar-wrapper-text-color: $white;
+
+// text
+$language-prof-text-color: lighten($primary-color-2, 35%);
+$profile-container-text: lighten($primary-color-2, 60%); // name text color
+
+
+// unknown
+$wrapper-background: $error; // No visible wrapper
 
 /* Misc */
-$heart: $red;
-$copyright-text-color: $text-light;
+$heart: #e50000;
+$copyright-text-color: $white;
