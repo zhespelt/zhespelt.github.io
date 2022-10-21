@@ -52,13 +52,13 @@ $sidebar-wrapper-link-color: $white;
 // Sidebar ====================================================================
 
 // profile pic background
-$profile-container-background: darken($primary-color-1, 10%);
+$profile-container-background: darken($primary-color-1, 25%);
 
 // profile pic border
 $avatar-border-color: $primary-color-2;
 
 // sidebar lower background color
-$sidebar-wrapper-background: $primary-color-1;
+$sidebar-wrapper-background: darken($primary-color-1, 10%);
 
 // sidebar logos and titles
 $sidebar-wrapper-text-color: $white;
@@ -68,9 +68,7 @@ $language-prof-text-color: lighten($primary-color-2, 35%);
 $profile-container-text: lighten($primary-color-2, 60%); // name text color
 
 
-// unknown
-$wrapper-background: $error; // No visible wrapper
-
 /* Misc */
 $heart: #e50000;
-$copyright-text-color: $white;
+$copyright-text-color: darken($white, 50%); // Xiaoying Riley
+$wrapper-background: $error; // No visible wrapper
