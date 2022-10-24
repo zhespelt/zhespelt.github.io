@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dd36c5-2000-46f7-887b-999566659e24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/testimonials.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/skins/_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/skins/_dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/print.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/z/Workspace/zhespelt.github.io/docker-compose.yml",
+    "last_opened_file_path": "/home/z/Workspace/zhespelt.github.io/_includes",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.folding"
   },
@@ -40,6 +45,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +73,7 @@
       <updated>1665504495876</updated>
       <workItem from="1665504498598" duration="8023000" />
       <workItem from="1665787008767" duration="318000" />
-      <workItem from="1665787408190" duration="67825000" />
+      <workItem from="1665787408190" duration="71244000" />
     </task>
     <servers />
   </component>

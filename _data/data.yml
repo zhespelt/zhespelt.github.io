@@ -1,4 +1,5 @@
 sidebar:
+    # Includes
     about: False
     education: False
 
@@ -17,13 +18,15 @@ sidebar:
     linkedin: "zhespelt"
     github: "zhespelt"
     stack-overflow: "1767229/zsh"
-    twitter:
 
     pdf:
 
     languages:
-      title: "Top Languages"
+      title: "Languages"
       info:
+        - idiom: "English"
+          level: "Native"
+
         - idiom: "SQL / PostgreSQL"
           level: "Expert"
 
@@ -33,33 +36,33 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: "Data Privacy and Security"
+          link: "https://act.eff.org/"
+
         - item: "LGBTQIA+ Community & Resources"
           link: "https://lgbtqia.ucdavis.edu/about"
-
-        - item: "Locksport & Physical Security"
-          link: "https://www.toool.us/mission.php"
 
         - item: "Neurodiversity Research"
           link: "https://www.neurodiversityhub.org/resources"
 
+        - item: "Locksport & Physical Security"
+          link: "https://www.toool.us/mission.php"
+
         - item: "Open-Source Intelligence (OSINT)"
           link: "https://osintcurio.us/"
+
+        - item: "Capture the Flag"
+          link: "https://ctftime.org/ctfs"
 
         - item: "Linux & FOSS"
           link: "https://www.linuxfoundation.org/about"
 
-        - item: "Hacking CTFs"
-          link: "https://ctftime.org/ctfs"
-
-        - item: "Data Privacy and Security"
-          link: "https://act.eff.org/"
 
 career-profile:
     title: "Full-stack Data Professional"
     summary: |
       Business Intelligence leader with more than a decade's worth of experience using data science and analytics to successfully drive action and positive outcomes.
       My, and my teams', work has been responsible for millions of dollars in revenue and reduced operational costs each year at companies I've worked with.
-      
       
 
 skills:
@@ -95,6 +98,7 @@ skills:
 
       - name: "Data Science"
         level: 60%
+
 
 experiences:
     title: "Experiences"
@@ -157,6 +161,7 @@ experiences:
           * Visited construction sites regularly to inspect workforce data
           * Designed and built EEO reporting, proving the effectiveness of the diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
 
+
 education:
     title: "Education"
     info:
@@ -184,6 +189,7 @@ education:
             - Abnormal psychology
             - Childhood development
             - Experiment methodology
+
 
 projects:
     title: "Projects"
@@ -246,6 +252,7 @@ projects:
           
           My project helped Sound Transit win the Rosa Parks awards, both regionally and nationally, as well as 
           protecting contract bids for S&D businesses.
+
 
 testimonials:
     title: "Testimonials"
@@ -340,6 +347,7 @@ testimonials:
         link: "https://www.linkedin.com/in/gregtmowat/"
         tagline: |
           Z is a thoughtful, insightful, inqusitive, bright individual with a deep talent related to numbers and the stories that they tell. He works well with teams, responds to pressure in an emotional mature manner, and delivers on time! Z is a delight with whom to work and always focused and well organized! He brought our team through many a critical spot with elegance and grace!
+
 
 footer: >-
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

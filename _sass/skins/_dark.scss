@@ -35,6 +35,7 @@ $time-text-color: lighten($black, 45%);
 $company-text-color: lighten($black, 45%);
 $university-text-color: lighten($black, 45%);
 $project-title-color: $primary-color-2;
+$testimonial-title-color: $primary-color-2;
 
 // text and H2
 $body-text-color: $dark-grey;
@@ -56,6 +57,7 @@ $profile-container-background: darken($primary-color-1, 25%);
 
 // profile pic border
 $avatar-border-color: $primary-color-2;
+$avatar-border-width: 0px;
 
 // sidebar lower background color
 $sidebar-wrapper-background: darken($primary-color-1, 10%);
