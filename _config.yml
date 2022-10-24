@@ -7,7 +7,7 @@ theme_skin: dark # [blue, turquoise, green, berry, orange, ceramic, dark]
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics:
+analytics: "G-KNGXHYQMFP"
 
 # Sass/SCSS
 sass:

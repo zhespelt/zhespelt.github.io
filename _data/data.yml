@@ -3,6 +3,9 @@ sidebar:
     about: False
     education: False
 
+    # Tracker
+    analytics: "G-KNGXHYQMFP"
+
     # Profile information
     name: "Z Hespelt"
     tagline: "Full Stack Data Professional"
