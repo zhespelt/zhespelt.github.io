@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1dd36c5-2000-46f7-887b-999566659e24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,11 @@
     "last_opened_file_path": "/home/z/Workspace/zhespelt.github.io/docker-compose.yml",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.folding"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "yaml"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +67,7 @@
       <updated>1665504495876</updated>
       <workItem from="1665504498598" duration="8023000" />
       <workItem from="1665787008767" duration="318000" />
-      <workItem from="1665787408190" duration="65534000" />
+      <workItem from="1665787408190" duration="67825000" />
     </task>
     <servers />
   </component>
