@@ -9,7 +9,10 @@ sidebar:
     # Profile information
     name: "Z Hespelt"
     tagline: "Full Stack Data Professional"
-    avatar: "profile.png"
+    avatar: "profile.avif"
+    avatar-fallback: "profile.png"
+    avatar-width: "100%"
+    avatar-height: "100%"
 
     # Sidebar links
     email: "z@zhespelt.com"

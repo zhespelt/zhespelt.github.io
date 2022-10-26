@@ -4,7 +4,10 @@
   <div class="profile-container">
 
     {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <picture>
+      <source type="image/avif" srcset="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" />
+      <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar-fallback }}" width="{{ sidebar.avatar-width }}" height="{{ sidebar.avatar-height }}" alt="profile picture" />
+    </picture>
     {% endif %}
 
     {% if sidebar.name %}
