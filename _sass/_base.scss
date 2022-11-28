@@ -81,7 +81,7 @@ p {
     margin-bottom: 15px;
     border: $avatar-border-width inset $avatar-border-color;
     border-radius: 100%;
-    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.1);
   }
   .contact-list {
     .fas,
@@ -123,13 +123,13 @@ p {
     .meta {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
-      margin-bottom: 0px;
+      margin-bottom: 0;
       margin-top: 0;
     }
     .time {
       color: rgba(256, 256, 256, 0.6);
       font-weight: 500;
-      margin-bottom: 0px;
+      margin-bottom: 0;
     }
   }
   .languages-container {
