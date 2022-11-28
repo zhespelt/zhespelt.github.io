@@ -21,7 +21,7 @@
 
       <span class="testimonial-title">
         {% if testimonial.link %}
-        <a href="{{ testimonial.link }}" target="_blank">{{ testimonial.author }} rel="noopener noreferrer"</a>
+        <a href="{{ testimonial.link }}" target="_blank" rel="noopener noreferrer">{{ testimonial.author }}</a>
         {% else %}
         {{ testimonial.author }}
         {% endif %}
