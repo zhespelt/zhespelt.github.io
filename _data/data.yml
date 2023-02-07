@@ -125,10 +125,10 @@ experiences:
         details: |
           SeedLegals is the largest platform for startup funding and legals in the UK, with £1+ billion in funding raised and 35k+ companies and investors on platform.
           
-          * Reported to CEO and collaborated with C-level executives on big-picture projects (G-Suite, Slack)
+          * Reported to CEO and collaborated with C-level executives on big-picture projects (using G-Suite, Slack)
           * Worked internationally with stakeholders across the UK, Europe, APAC, and the Middle East
-          * Planned SL’s data strategy and created short/long-term data roadmap
-          * Hired, trained, and managed SL’s international, hybrid data team (BI & DS, FactorialHR)
+          * Planned SL’s data strategy and created short/long-term data roadmap (Notion, waterfall, agile)
+          * Hired, trained, and managed SL’s international, hybrid data team (BI & data science, FactorialHR)
           * Built and administered SL’s data warehouse (AWS, Postgres)
           * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
           * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling the product team to better understand application usage
@@ -148,7 +148,7 @@ experiences:
           
           * Supported Rover’s Operations locally and internationally, including: CX, Booking Assurance, Trust & Safety, as well as the Data Science, Finance, and London satellite data teams
           * Participated in hiring, training, and mentoring new data and business analysts
-          * Built most of Operations' analytical data structures, enabling greater understanding of Rover customers and more actionable KPIs  
+          * Built most of Operations' analytical data structures, enabling greater understanding of Rover customers and more actionable KPIs
           * Researched disintermediation and implemented workflow that saved ~$500k/yr, reduced negative customer experiences, phishing messages, and account takeover incidents
           * Engineered a disaster-relief pipeline that cut disaster response times from multiple days to a few hours and saved more than just operational costs
           * Authored the data-literacy module of Rover’s SQL 101 coursebook, and co-taught the 5-week internal course
@@ -159,9 +159,9 @@ experiences:
         details: |
           Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other games—is a long-time titan in the card-game industry with decades' worth of data on player and customer behavior across video games, esports, retail business, and events.
           
-          * Developed player behavior models to forecast the impact program changes would have on player growth, retention, and lifetime revenue
+          * Developed player behavior models to forecast the impact program changes would have on player growth, retention, and lifetime revenue (R, Python)
           * Reduced printing and shipping inefficiencies by accurately predicting major event attendance and product utilization
-          * Co-built the data warehouse and fraud detection algorithms used for the Magic: Duels video game, contributing to it being the most successful installment in the series
+          * Co-built the data warehouse and fraud detection algorithms used for the Magic: Duels video game, contributing to it being the most successful installment in the series (Splunk)
           * Headed company-wide rollout of Tableau Server, bringing near-real-time insights to stakeholders
           * Designed and built an esports commentary pipeline—cutting the roughly 3-week manual process to under 72 hours and dramatically improving its scope
           * Researched and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
@@ -217,7 +217,7 @@ projects:
         tagline: |
           Originally envisioned by CEO, Anthony Rose, I developed the initial MVP and v1 of the Term-o-Meter, aka Tom, 
           before tasking my team to bring it life. Tom consists of a data visualization layer on top of a program that 
-          aggregates and analyzes interactions between key deal terms and funding round statistics. 
+          aggregates and analyzes interactions between key deal terms and funding round statistics.
 
           Tom provides SeedLegals a deep insight into how founders and investors negotiate deal terms and how 
           successful those deals turn out to be.
@@ -230,7 +230,7 @@ projects:
           to determine the likelihood that a new account was a "bad actor".
 
           The first tool classified new accounts based on all of the statistically significant data points available, 
-          returning the probability of the account being suspended for bad actions in the future. 
+          returning the probability of the account being suspended for bad actions in the future.
           The second scanned and reported on user interactions for patterns indicative of phishing.
 
           Between these two tools, Rover was able to materially reduce the number of interactions these accounts 
@@ -239,7 +239,7 @@ projects:
       - title: "Graphicacy Module for Data Analytics Training"
         link:
         tagline: |
-          While the amount of data we generate and can access is growing exponentially, our data literacy and numeracy are not. 
+          While the amount of data we generate and can access is growing exponentially, our data literacy and numeracy are not.
           So, while teaching the SQL and data analytics courses at Rover, in order to help democratize access to and 
           understanding of data, I developed a module on data visualization, interpretation, and accessibility.
 
@@ -256,7 +256,7 @@ projects:
           performance metrics and monitor player behavior.
           
           Within a few weeks, our project was successfully detecting and stopping fraudulent in-game transactions, 
-          delivering full-coverage KPIs to leadership, and exposing pain-points that were causing player drop-off.  
+          delivering full-coverage KPIs to leadership, and exposing pain-points that were causing player drop-off.
 
       - title: "Diversity Reporting Program"
         link:
