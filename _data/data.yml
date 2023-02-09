@@ -125,15 +125,15 @@ experiences:
         details: |
           SeedLegals is the largest platform for startup funding and legals in the UK, with £1+ billion in funding raised and 35k+ companies and investors on platform.
           
-          * Reported to CEO and collaborated with C-level executives on big-picture projects (using G-Suite, Slack)
-          * Worked internationally with stakeholders across the UK, Europe, APAC, and the Middle East
-          * Planned SL’s data strategy and created short/long-term data roadmap (Notion, waterfall, agile)
-          * Hired, trained, and managed SL’s international, hybrid data team (BI & data science, FactorialHR)
-          * Built and administered SL’s data warehouse (AWS, Postgres)
-          * Engineered SL’s data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
-          * Built high-dimensional behavioral data, enabling deeper insights, increasing sales & marketing effectiveness, and enabling the product team to better understand application usage
-          * Designed and MVP’d the Term-o-Meter (ToM), an application for analyzing and presenting deal-term data
-          * Advised startups on data-related product development and strategy
+            * Collaborated with C-level executives on big-picture projects (G-Suite, Slack)
+            * Worked internationally with stakeholders across the UK, Europe, APAC, and the Middle East
+            * Developed and executed company's data strategy and roadmap
+            * Hired, trained, and managed an international hybrid data team
+            * Built and administered company's data warehouse (AWS, Postgres)
+            * Engineered company's data infrastructure (Stitch, DBT, SQL, Python, Tableau, Metabase)
+            * Created high-dimensional behavioral data, improving sales & marketing effectiveness and product team understanding
+            * Advised startups on data-related product development and strategy
+
           
           Sample of articles using my analyses:
             * [Narrative Violation: Women led startups - you can get funding (SpiceStartups.com)](https://www.spicestartups.com/post/narrative-violation-women-led-startups-you-can-get-funding)
@@ -146,12 +146,13 @@ experiences:
         details: |
           Rover is the world’s largest network of 5-star pet sitters and dog walkers, with millions of completed bookings, hundreds of thousands of active service providers, and more data than you can shake a stick at.
           
-          * Supported Rover’s Operations locally and internationally, including: CX, Booking Assurance, Trust & Safety, as well as the Data Science, Finance, and London satellite data teams
-          * Participated in hiring, training, and mentoring new data and business analysts
-          * Built most of Operations' analytical data structures, enabling greater understanding of Rover customers and more actionable KPIs
-          * Researched disintermediation and implemented workflow that saved ~$500k/yr, reduced negative customer experiences, phishing messages, and account takeover incidents
-          * Engineered a disaster-relief pipeline that cut disaster response times from multiple days to a few hours and saved more than just operational costs
-          * Authored the data-literacy module of Rover’s SQL 101 coursebook, and co-taught the 5-week internal course
+            * Supported Rover's Operations locally and internationally (CX, Booking Assurance, Trust & Safety, Data Science, Finance, London satellite data teams)
+            * Participated in hiring, training, and mentoring new data and business analysts
+            * Built analytical data structures, improving understanding of customers and actionable KPIs
+            * Researched disintermediation and implemented workflow that saved ~$500k/yr and reduced negative customer experiences
+            * Engineered disaster-relief pipeline that improved response times and saved operational costs
+            * Authored data-literacy module of Rover's SQL 101 coursebook and co-taught the 5-week internal course
+
 
       - role: "Senior Business Intelligence Analyst"
         time: "Sep 2013 - Oct 2017 · 4 yrs 2 mo"
@@ -159,12 +160,13 @@ experiences:
         details: |
           Wizards of the Coast—makers of Dungeons & Dragons, Magic: the Gathering, and a thousand other games—is a long-time titan in the card-game industry with decades' worth of data on player and customer behavior across video games, esports, retail business, and events.
           
-          * Developed player behavior models to forecast the impact program changes would have on player growth, retention, and lifetime revenue (R, Python)
-          * Reduced printing and shipping inefficiencies by accurately predicting major event attendance and product utilization
-          * Co-built the data warehouse and fraud detection algorithms used for the Magic: Duels video game, contributing to it being the most successful installment in the series (Splunk)
-          * Headed company-wide rollout of Tableau Server, bringing near-real-time insights to stakeholders
-          * Designed and built an esports commentary pipeline—cutting the roughly 3-week manual process to under 72 hours and dramatically improving its scope
-          * Researched and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
+            * Developed player behavior models to predict impact of program changes on player growth, retention, and lifetime revenue
+            * Reduced printing and shipping inefficiencies by accurately predicting major event attendance and product utilization
+            * Co-built data warehouse and fraud detection algorithms for the Magic: Duels video game
+            * Headed company-wide rollout of Tableau Server, bringing real-time insights to stakeholders
+            * Designed and built an esports commentary pipeline, improving scope and cutting manual process time to under 72 hours
+            * Researched and built valuable models for the legal team, aiding in favorable court rulings for Wizards and Hasbro
+
 
 
       - role: "Data Analyst & Systems Administrator"
@@ -173,9 +175,10 @@ experiences:
         details: |
           Sound Transit provides mass transit options to the Pacific NorthWest and—through their commitment to supporting small and disadvantaged businesses—are responsible for many millions of dollars going to female and minority-owned companies.
           
-          * Developed a system to acquire, analyze, and track gender and race equality data from 500+ companies, ensuring compliance with local and federal laws
-          * Visited construction sites regularly to inspect workforce data
-          * Designed and built EEO reporting, proving the effectiveness of the diversity program and resulting in the awarding of the Rosa Parks Award for outstanding commitment to equality—both regionally and nationally—in 2011
+            * Developed system to acquire, analyze, and track gender and race equality data from 500+ companies, ensuring compliance with local and federal laws
+            * Visited construction sites regularly to inspect workforce data
+            * Designed and built EEO reporting, resulting in the award of the Rosa Parks Award for outstanding commitment to equality, regionally and nationally, in 2011
+
 
 
 education:
