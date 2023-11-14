@@ -126,8 +126,10 @@ experiences:
           CCG Lab, makers of the DC Dual Force digital collectible card game.
           
             * Shaped CCG Lab's data strategy
-            * Built the company's data pipeline
-            * Delivered KPIs and other critical information to decision makers
+            * Built the company's data pipeline (GCP, MongoDB, Snowflake, Fivetran, DBT)
+            * Delivered KPIs and other critical information to decision makers (Preset)
+            * Co-setup DC Dual Force's marketing (Zoho Campaigns, GameSight, Google Ads, Facebook Ads)
+            * Admin for all of the above (except Mongo)
 
           
       - role: "Head of Data"
