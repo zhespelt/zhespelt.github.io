@@ -120,6 +120,17 @@ experiences:
     title: "Experiences"
     info:
       - role: "Head of Data"
+        time: "Apr 2023 - Nov 2023 · 7 mos"
+        company: "CCG Lab, Inc."
+        details: |
+          CCG Lab, makers of the DC Dual Force digital collectible card game.
+          
+            * Shaped CCG Lab's data strategy
+            * Built the company's data pipeline
+            * Delivered KPIs and other critical information to decision makers
+
+          
+      - role: "Head of Data"
         time: "Oct 2020 - Sep 2022 · 2 yrs"
         company: "SeedLegals.com"
         details: |
